@@ -7,3 +7,6 @@ var myVar = "Hello, world!";
 ``` go
 var hola = &ola;
 ```
+- [x] Tarea 1
+- [ ] Tarea 2
+- [ ] Tarea 3
